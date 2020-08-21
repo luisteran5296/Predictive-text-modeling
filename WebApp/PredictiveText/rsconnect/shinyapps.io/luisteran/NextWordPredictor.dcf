@@ -1,0 +1,13 @@
+name: NextWordPredictor
+title: NextWordPredictor
+username:
+account: luisteran
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2690768
+bundleId: 3540202
+url: https://luisteran.shinyapps.io/NextWordPredictor/
+when: 1597975126.79576
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: model.rds|model2.Rds|model3.RDS|ModelComplete.Rds|ngram.Rds|nGramModelsList.Rds
